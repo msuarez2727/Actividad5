@@ -1,0 +1,27 @@
+/*.mouse{
+    width: 30px;
+    height: 30px;
+    background: #fc46fc;
+    border-radius: 500px;
+    position: absolute;
+    display: block;
+}*/
+
+
+
+
+body{
+    background: rgb(228, 253, 251);/* alt + shift + A, Color de fondo */   
+   text-align: center;  /*Centrar el texto */
+   color: rgb(20, 16, 16);
+   }
+   
+   h1, h2, h3{  
+   font-size: 30px;
+   }
+   
+   p{
+   font-size: 24px;
+   
+   }
+   
